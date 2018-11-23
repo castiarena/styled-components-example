@@ -1,6 +1,6 @@
 import React from 'react';
-import styled, { css } from 'styled-components';
-import {base, primary} from './Pallete';
+import styled from 'styled-components';
+import {base} from './Pallete';
 
 const Button = styled.button`
   display: inline-block;
