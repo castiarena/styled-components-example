@@ -5,7 +5,8 @@ webpack, react and styled-components.
 
 ## Run
 
-With `yarn` or `npm` run:
+With `yarn` or `npm` install dependencies and then run:
+
 
 ```sh
 yarn run start-dev
