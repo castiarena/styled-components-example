@@ -13,6 +13,8 @@ yarn run start-dev
 npm run start-dev
 ```
 
+Then go to [http://localhost:8080/bundle](http://localhost:8080/bundle)
+
 ## Test
 
 With `yarn` or `npm` run:
